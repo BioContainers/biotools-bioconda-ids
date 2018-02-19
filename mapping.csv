@@ -928,7 +928,7 @@ GAM,r-gam,null
 GRAPHLITE,graphlite,null
 SANGER,perl-sanger-cgp-allelecount,null
 WRAPPERS,graphclust-wrappers,null
-NEWICK_UTILS,newick_utils,null
+NEWICK_UTILS,newick_utils,Newick_Utilities
 BIOCONDUCTOR-ZLIBBIOC,bioconductor-zlibbioc,zlibbioc
 LSC,lsc,null
 LOCARNA,locarna,locarna
@@ -1285,7 +1285,7 @@ GENBLASTA,genblasta,null
 BIOCONDUCTOR-GOTHIC,bioconductor-gothic,gothic
 COBRA,cobra,null
 SCOARY,scoary,Scoary
-TRANSABYSS,transabyss,null
+TRANSABYSS,transabyss,trans-abyss
 BIOCONDUCTOR-BEAT,bioconductor-beat,null
 BIOCONDUCTOR-KEGG.DB,bioconductor-kegg.db,null
 STRUCTURE,structure,Structure
@@ -1321,7 +1321,7 @@ PYDNA,pydna,null
 IBDNE,ibdne,null
 MSGF_PLUS,msgf_plus,null
 BOWTIE,bowtie,bowtie
-TOOLKIT,clever-toolkit,null
+TOOLKIT,clever-toolkit,ctk
 OVERLAPS,rust-overlaps,null
 BIOCONDUCTOR-SEPA,bioconductor-sepa,sepa
 BIOCONDUCTOR-SEQPATTERN,bioconductor-seqpattern,seqpattern
@@ -1535,7 +1535,7 @@ YAGGO,yaggo,null
 SAMR,r-samr,null
 MISCTOOLS,r-misctools,null
 GETOPT,perl-getopt-long,null
-VARIANT,platypus-variant,variant
+VARIANT,platypus-variant,platypus
 BIOCONDUCTOR-MOTIFDB,bioconductor-motifdb,motifdb
 EQTLBMA,eqtlbma,eQtlBma
 GOLEFT,goleft,null
@@ -1558,13 +1558,13 @@ BIOCONDUCTOR-SSVIZ,bioconductor-ssviz,ssviz
 MINVAR,minvar,null
 BIOCONDUCTOR-MANTA,bioconductor-manta,manta
 BIOCONDUCTOR-RIPSEEKER,bioconductor-ripseeker,ripseeker
-TRIM,sickle-trim,null
+TRIM,sickle-trim,sickle
 BEDCOMMONREGIONS,ucsc-bedcommonregions,null
 PYTHON3,avro-python3,null
 NANOSTAT,nanostat,null
 SV,lumpy-sv,null
 CYVCF2,cyvcf2,null
-T_COFFEE,t_coffee,null
+T_COFFEE,t_coffee,tcoffee
 BIOCONDUCTOR-DEGREPORT,bioconductor-degreport,degreport
 BIOCONDUCTOR-GENOMATION,bioconductor-genomation,null
 CISO8601,ciso8601,null
@@ -2231,7 +2231,7 @@ BIOCONDUCTOR-GAGA,bioconductor-gaga,gaga
 ROARY2FRIPAN.PY,roary2fripan.py,null
 SHUSTRING,shustring,null
 HLAMA,hlama,null
-SHAKER,peptide-shaker,null
+SHAKER,peptide-shaker,peptideshaker
 FATRANS,ucsc-fatrans,null
 THETA2,theta2,null
 TABULATE,tabulate,null
@@ -2357,7 +2357,7 @@ PROGRESS,r-progress,null
 BURRITO,burrito,null
 MAFFT,mafft,mafft
 PICTRUST,pictrust,null
-GALORE,trim-galore,null
+GALORE,trim-galore,trim_galore
 CWL2WDL,cwl2wdl,null
 NIBFRAG,ucsc-nibfrag,null
 KAPTIVE,kaptive,null
@@ -2416,7 +2416,7 @@ TAILLINES,ucsc-taillines,null
 MARKDOWN,flask-markdown,null
 MULTX,fastq-multx,null
 FISHTACO,fishtaco,null
-EFFECT,variant-effect-predictor,null
+EFFECT,variant-effect-predictor,vep
 SIMPLE,pgma-simple,null
 ARIA2,aria2,null
 BIOCONDUCTOR-MINFI,bioconductor-minfi,minfi
